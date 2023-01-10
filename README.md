@@ -36,4 +36,4 @@ I am the creator of SwiftyBeaver, the end-to-end encrypted open-source logger fo
 
 <b>My GitHub Stats</b>
 
-[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=skreutzberger)](https://github-readme-stats.vercel.app/api?username=skreutzberger)
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=skreutzberger)
