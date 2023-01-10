@@ -1,16 +1,16 @@
 Hi 👋 My name is Sebastian Kreutzberger
 =======================================
 
-Serial tech entrepreneur
+Building products people love
 ------------------------
 
-I am the **creator of SwiftyBeaver**, the end-to-end encrypted open-source logger for Swift and currently **co-founder & CTO at YGO**. In the past 20 years, I founded and lead several tech startups including Wunderlist, RhodeCode & Idonext as CEO or CTO. I love to be a serial-entrepreneur, advisor and evangelist for ideas which have an significantly positive impact on the daily life of millions of people.
+I am the **creator of SwiftyBeaver**, the leading open-source logging framework for Swift and am also **co-founder & CTO at YGO**. In the past 20 years, I founded and/or lead several tech startups including Wunderlist, RhodeCode, Idonext & icongroup as CEO or CTO. I love to be a serial-entrepreneur, advisor and evangelist for ideas which have an significantly positive impact on the daily life of millions of people.
 
 * 🌍  I'm based in Berlin, Germany
-* 🏝️  I'm working on disrupting the travel industry with [YGO](http://ygotrips.com)
-* 🚀  I'm contributing to several open-source projects and maintain [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
-* 😍  I'm in love with Golang, Solidjs & Swift
-* 🤝  I'm open to work on disrupting digital products with a real benefit for the user
+* 🏝️  I'm working on disrupting the travel industry with [YGO](http://ygotrips.com)
+* 🚀  I'm contributing to several open-source projects and maintain [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+* 😍  I'm in love with Golang, Solidjs & Swift
+* 🤝  I'm open to work on truly disrupting digital products
 
 ### Skills
 
