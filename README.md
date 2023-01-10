@@ -7,7 +7,7 @@ In the past 20 years, I founded and/or lead several tech startups including Wund
 
 * 🌍  I'm based in Berlin, Germany
 * 🚀  I'm working on disrupting the travel industry with [YGO](http://ygotrips.com)
-* ⭐️  I'm contributing to several open-source projects and maintain [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+* ⭐️  I'm contributing to several open-source projects and maintain [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) (5.6k ⭐️)
 * 😍  I'm in love with Golang, Solidjs & Swift
 * 🤝  I'm open to work on truly disrupting digital products
 
