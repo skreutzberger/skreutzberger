@@ -8,7 +8,7 @@ I am the **creator of SwiftyBeaver**, the end-to-end encrypted open-source logge
 
 * 🌍  I'm based in Berlin, Germany
 * 🚀  I'm working on disrupting the travel industry with [YGO](http://ygotrips.com)
-* 🚀  I'm helping thousands of app developers in secure app logging with [SwiftyBeaver](http://swiftybeaver.com)
+* 🚀  I'm working on open-source to help mobile app developers with [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
 * 😍  I'm in love with Swift, Golang & Solidjs
 * 🤝  I'm open to work on disrupting digital products with a real benefit for the user
 
