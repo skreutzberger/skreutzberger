@@ -6,8 +6,9 @@ I am the **creator of SwiftyBeaver**, the leading open-source logging framework 
 In the past 20 years, I founded and/or lead several tech startups including Wunderlist, RhodeCode, Idonext & icongroup as CEO or CTO. I love to be a serial-entrepreneur, advisor and evangelist for ideas which have an significantly positive impact on the daily life of millions of people.
 
 * 🌍  I'm based in Berlin, Germany
-* 🚀  I'm working on disrupting the travel industry via AI with [YGOTrips](http://ygotrips.com)
+* 🚀  I'm working on disrupting the travel industry via AI at [YGO](http://ygo.ai)
 * ⭐️  I'm contributing to several open-source projects and created + maintain [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) (5.6k ⭐️)
+* 🤖  I'm most productive using Claude Code
 * 😍  I'm in love with Golang, Svelte & Swift
 * 🤝  I'm open to work on truly disrupting digital products
 
